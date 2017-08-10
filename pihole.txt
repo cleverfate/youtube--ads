@@ -1,0 +1,34 @@
+
+#advertisements
+0.0.0.0	r8---sn-5hne6nse.googlevideo.com
+0.0.0.0	manifest.googlevideo.com
+0.0.0.0	r15---sn-ab5l6ne6.googlevideo.com
+0.0.0.0	r18---sn-5hne6nlz.googlevideo.com
+0.0.0.0	r18---sn-a5m7ln7d.googlevideo.com
+0.0.0.0	r1---sn-32o-5hne.googlevideo.com
+0.0.0.0	r1---sn-32o-5hnl.googlevideo.com
+0.0.0.0	r1---sn-5hnednel.googlevideo.com
+0.0.0.0	r1---sn-t0a7sn7d.googlevideo.com
+0.0.0.0	r2---sn-32o-5hne.googlevideo.com
+0.0.0.0	r2---sn-n4v7snee.googlevideo.com
+0.0.0.0	r2---sn-q4flrn7r.googlevideo.com
+0.0.0.0	r2---sn-vgqsen7s.googlevideo.com
+0.0.0.0	r3---sn-32o-5hne.googlevideo.com
+0.0.0.0	r3---sn-32o-5hnl.googlevideo.com
+0.0.0.0	r3---sn-5hnedn7l.googlevideo.com
+0.0.0.0	r3---sn-5hnednez.googlevideo.com
+0.0.0.0	r3---sn-5ualdnel.googlevideo.com
+0.0.0.0	r4---sn-32o-5hne.googlevideo.com
+0.0.0.0	r4---sn-32o-5hnl.googlevideo.com
+0.0.0.0	r5---sn-32o-5hne.googlevideo.com
+0.0.0.0	r5---sn-32o-5hnl.googlevideo.com
+0.0.0.0	r5---sn-5hnednlr.googlevideo.com
+0.0.0.0	r5---sn-a5mekner.googlevideo.com
+0.0.0.0	r5---sn-q4f7sn7e.googlevideo.com
+0.0.0.0	r5---sn-q4f7snsz.googlevideo.com
+0.0.0.0	r7---sn-32o-5hne.googlevideo.com
+0.0.0.0	r7---sn-32o-5hnl.googlevideo.com
+0.0.0.0	r8---sn-32o-5hne.googlevideo.com
+0.0.0.0	r8---sn-32o-5hnl.googlevideo.com
+0.0.0.0	r8---sn-5hnedn76.googlevideo.com
+0.0.0.0	r9---sn-5hne6nse.googlevideo.com
